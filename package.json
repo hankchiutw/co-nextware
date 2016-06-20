@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Hank"
+  },
+  "config": {
+    "appname": "co-nextware"
+  },
+  "dependencies": {
+    "co": "^4.6.0"
+  },
+  "description": "wraps an ES6 genderator as express.js middleware callback(having \"next\" argument)",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "co"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "hankchiu",
+      "email": "hankchiu.tw@gmail.com"
+    }
+  ],
+  "name": "co-nextware",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hankchiutw/co-nextware.git"
+  },
+  "scripts": {},
+  "version": "1.0.2"
+}
